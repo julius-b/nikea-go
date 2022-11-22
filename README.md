@@ -15,5 +15,5 @@ require (
   git.oxc.ch/keron/nikea-go v0.1.0
 )
 
-replace git.oxc.ch/keron/nikea-go => github.com/julius-b/nikea-go
+replace git.oxc.ch/keron/nikea-go => github.com/julius-b/nikea-go v0.1.0
 ```
